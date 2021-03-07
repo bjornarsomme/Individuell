@@ -1,1 +1,2 @@
-Dette er mitt første repository
+Dette er mitt første, kempekule repository!
+Takk for at du leste meg
