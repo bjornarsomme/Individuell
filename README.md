@@ -1,1 +1,1 @@
-Navn
+Dette er mitt første repository
